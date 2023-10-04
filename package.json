@@ -1,0 +1,13 @@
+{
+  "name": "trello-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "ngotankhoa",
+  "main": "src/server.js",
+  "author": "ngotankhoa214",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
